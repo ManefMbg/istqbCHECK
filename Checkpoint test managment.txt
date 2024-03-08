@@ -1,0 +1,45 @@
+1) The responsibilities of a Test Manager: 
+
+Test Planning and Strategy
+
+Team Management
+
+Test Execution and Monitoring
+
+Test Automation
+
+Quality Assurance
+
+Communication and Reporting
+
+Risk Management
+
+Continuous Improvement
+
+===============================================================================================================================
+
+2) If I find that testers in my organization are continuing to perform tests 
+on a deliverable despite significant defects being identified, I would take the following approach:
+
+Communication with Testers
+Educate on Priority
+Adjust Test Strategy
+Continuous Monitoring
+
+================================================================================================================================
+
+3) How would you select a Testing tool for your project?
+
+Understand Project Requirements
+Identify Testing Needs
+Research Testing Tools
+Consider the Cost
+
+================================================================================================================================
+
+4) What are some key challenges in a Testing Project?
+
+Time consuming
+Testing environment
+Complixity of testing 
+Communication
